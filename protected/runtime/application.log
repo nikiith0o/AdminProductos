@@ -5417,3 +5417,99 @@ Stack trace:
 REQUEST_URI=/AdminProductos/product/admin
 HTTP_REFERER=http://localhost/AdminProductos/product/create
 ---
+2022/02/04 20:16:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/mdb.min.js.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('js/mdb.min.js.m...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/js/mdb.min.js.map
+---
+2022/02/04 20:16:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/js/bootstrap.min.js.map
+---
+2022/02/04 20:16:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/mdb.min.css.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('css/mdb.min.css...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/css/mdb.min.css.map
+---
+2022/02/04 20:16:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/css/bootstrap.min.css.map
+---
+2022/02/04 20:16:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/css/bootstrap.min.css.map
+---
+2022/02/04 20:16:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/mdb.min.css.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('css/mdb.min.css...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/css/mdb.min.css.map
+---
+2022/02/04 20:16:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/js/bootstrap.min.js.map
+---
+2022/02/04 20:16:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/mdb.min.js.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('js/mdb.min.js.m...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/js/mdb.min.js.map
+---
+2022/02/04 20:17:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/mdb.min.css.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('css/mdb.min.css...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/css/mdb.min.css.map
+---
+2022/02/04 20:17:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/css/bootstrap.min.css.map
+---
+2022/02/04 20:17:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/mdb.min.js.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('js/mdb.min.js.m...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/js/mdb.min.js.map
+---
+2022/02/04 20:17:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js.map".' in C:\wamp\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\web\CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 C:\wamp\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp\www\AdminProductos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/AdminProductos/js/bootstrap.min.js.map
+---
